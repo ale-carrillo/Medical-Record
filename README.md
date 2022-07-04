@@ -1,2 +1,2 @@
-# Proyecto-Final
-Carrillo Cervantes Ivette Alejandra - Fundamentos de Programación - Grupo 3
+# Medical Record
+Medical Record in C language
